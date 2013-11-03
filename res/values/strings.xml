@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidPowerSuite</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button_start">开始记录硬件模块状态</string>
+    <string name="button_stop">停止记录硬件模块状态</string>
+
+</resources>

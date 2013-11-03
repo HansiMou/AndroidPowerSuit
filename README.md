@@ -1,0 +1,1 @@
+It is mainly a service, which run in background. It can get hardware usage like(CPU's frequency and brightness of the screen) every second. The information will be written in the SD card or the mobile in a text file.
